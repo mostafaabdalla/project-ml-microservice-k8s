@@ -1,6 +1,6 @@
 # project-ml-microservice-k8s
 
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/mostafaabdalla/project-ml-microservice-k8s/tree/main.svg?style=svg)](https://circleci.com/gh/mostafaabdalla/project-ml-microservice-k8s/tree/main)
 
 ## Project Overview
 
