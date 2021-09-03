@@ -27,4 +27,6 @@ jobs:
             name: run lint
             command: |
                 . venv/bin/activate
-                make lint 
+                chmod +x hadolint
+                ./hadolint Dockerfile
+#                make lint 
